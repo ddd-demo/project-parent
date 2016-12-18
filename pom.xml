@@ -46,8 +46,9 @@
 		<druid.version>1.0.9</druid.version>
 		<commons-dbcp.version>1.4</commons-dbcp.version>
 
-		<!--视图层常用包 -->
-		<jackson.version>2.4.2</jackson.version>
+		<!--视图层常用包  -->
+		<!-- <jackson.version>2.4.2</jackson.version> 2.8.5-->
+		<jackson.version>2.7.8</jackson.version>
 
 		<!-- dom4j -->
 		<dom4j.version>1.6.1</dom4j.version>
