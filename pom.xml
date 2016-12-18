@@ -1,3 +1,4 @@
+<!-- maven指令: -->
 <!--mvn clean compile 编译 -->
 <!--mvn clean test 测试 -->
 <!--mvn clean package 打包 -->
